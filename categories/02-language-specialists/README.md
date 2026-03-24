@@ -50,6 +50,15 @@ Elixir language expert focusing on fault-tolerant, concurrent systems using OTP 
 
 **Use when:** Building fault-tolerant systems, creating real-time apps with Phoenix LiveView, implementing distributed Elixir clusters, or leveraging OTP patterns for reliability.
 
+### [**expo-react-native-expert**](expo-react-native-expert.md) - Expo and React Native mobile development expert
+Mobile development specialist building production-ready iOS and Android applications with Expo SDK 52+ and React Native. Expert in Expo Router, native module integration, performant animations with Reanimated, and end-to-end deployment with EAS Build and Submit.
+
+**Use when:** Building mobile apps with Expo and React Native, implementing push notifications, setting up EAS builds and OTA updates, optimizing React Native performance, or integrating native features via config plugins.
+### [**fastapi-developer**](fastapi-developer.md) - Modern async Python API framework expert
+FastAPI specialist building high-performance async APIs with automatic OpenAPI documentation. Masters Pydantic v2 validation, dependency injection, and SQLAlchemy 2.0 async patterns. Delivers blazing-fast, type-safe Python APIs.
+
+**Use when:** Building async Python APIs, implementing Pydantic v2 data validation, designing dependency injection patterns, deploying ASGI applications, or creating auto-documented RESTful services.
+
 ### [**flutter-expert**](flutter-expert.md) - Flutter 3+ cross-platform mobile expert
 Mobile development specialist creating beautiful, natively compiled applications from a single codebase. Expert in widget composition, state management, and platform-specific implementations.
 
@@ -105,8 +114,8 @@ Python language expert covering web development, data science, automation, and s
 
 **Use when:** Writing Python applications, building data pipelines, creating automation scripts, or developing Python packages.
 
-### [**rails-expert**](rails-expert.md) - Rails 8.1 rapid development expert
-Ruby on Rails specialist focusing on convention over configuration and rapid development. Masters Active Record, Hotwire, and Rails' comprehensive feature set.
+### [**rails-expert**](rails-expert.md) - Rails 7.x/8.x rapid development expert
+Version-aware Ruby on Rails specialist covering Rails 7.x through 8.1 with Ruby 3.2 through 3.4. Automatically detects Rails version from Gemfile.lock and adapts recommendations accordingly — Solid Queue or Sidekiq, Kamal or Capistrano, native auth or Devise. Masters Hotwire, Active Record, and convention-driven architecture.
 
 **Use when:** Building Rails applications, implementing real-time features with Hotwire, optimizing Active Record queries, or upgrading Rails versions.
 
@@ -153,9 +162,11 @@ Vue.js framework specialist mastering the Composition API, reactivity system, an
 | C++ | **cpp-pro** | Systems programming, performance-critical code |
 | C#/.NET | **csharp-developer** | Windows apps, enterprise software |
 | Django | **django-developer** | Python web apps, REST APIs |
+| FastAPI | **fastapi-developer** | Modern async Python APIs |
 | .NET Core | **dotnet-core-expert** | Cross-platform .NET, microservices |
 | .NET Framework | **dotnet-framework-4.8-expert** | Legacy enterprise apps, Windows services |
 | Elixir | **elixir-expert** | Fault-tolerant systems, Phoenix/LiveView |
+| Expo/React Native | **expo-react-native-expert** | Expo mobile apps, EAS deployment |
 | Flutter | **flutter-expert** | Cross-platform mobile apps |
 | Go | **golang-pro** | Concurrent systems, microservices |
 | Java | **java-architect** | Enterprise applications |
@@ -182,7 +193,8 @@ Vue.js framework specialist mastering the Composition API, reactivity system, an
 - **angular-architect** + **spring-boot-engineer**
 
 **Mobile Development:**
-- **flutter-expert** for cross-platform
+- **expo-react-native-expert** for Expo/React Native cross-platform
+- **flutter-expert** for Flutter cross-platform
 - **swift-expert** for iOS native
 - **kotlin-specialist** for Android native
 
@@ -190,6 +202,7 @@ Vue.js framework specialist mastering the Composition API, reactivity system, an
 - **java-architect** + **spring-boot-engineer**
 - **csharp-developer** + **dotnet-core-expert**
 - **python-pro** + **django-developer**
+- **python-pro** + **fastapi-developer**
 
 **Systems Programming:**
 - **rust-engineer** for safety-critical systems
